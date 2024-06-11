@@ -4,5 +4,5 @@ como ja Falado no meu perfil principal me chamo Guilherme Andrade mendes, Muito 
 Estou estudando na [Alura](https:\\www.alura.com.br)
 Estou me desenvolvendo na linguagem JavaScript e estou ultilizando desse repositório para Deixar atualmente um de varios projetos tal como desenvolvido na Linguagem Computacional.
 
-### VEJA AGORA UMA ILUSTRAÇÃO OU LINK DE ACESSO AO JOGO E SE DIVIRTA 😎
-![](https://editor.p5js.org/00001132580377sp/full/T-seBUCMn)
+### VEJA AGORA UMA ILUSTRAÇÃO OU LINK DE ACESSO AO JOGO E SE DIVIRTA 
+curso programação jogo pong [p5.js](https://editor.p5js.org/00001132580377sp/full/T-seBUCMn)
