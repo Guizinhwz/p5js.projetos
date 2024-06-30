@@ -34,7 +34,7 @@ Este projeto faz parte de um curso oferecido pela Alura. Ele permite aos usuári
 - Checkboxes para indicar preferências por filmes de fantasia e/ou aventura.
 - Recomendação de filmes com base nas entradas fornecidas pelo usuário.
 
-- ### TECNOLOGIAS ULTILIZADAS
+### TECNOLOGIAS ULTILIZADAS
 - Biblioteca p5js
 - linguagem java 
 
