@@ -5,7 +5,7 @@ Estou estudando na [Alura](https:\\www.alura.com.br)
 e me desenvolvendo na linguagem JavaScrip. ultilizo desse repositório para Deixar atualmente um de varios projetos tal como desenvolvido na Linguagem Computacional.
 
 
-### PROJETO 1 - JOGO PONG LOGICA DE PROGRAMAÇAO 
+### PROJETO 1 - JOGO PONG LOGICA DE PROGRAMAÇAO 🎾🏐
 [p5.js](https://editor.p5js.org/00001132580377sp/full/T-seBUCMn)
 
 ### DESCRIÇAO 
@@ -23,7 +23,7 @@ o jogo tem como objetivo a interaçao por meio da programaçao, divertimento e e
 - linguagem java
 
 
-### PROJETO 2 - RECOMENDADOR DE FILMES
+### PROJETO 2 - RECOMENDADOR DE FILMES 🎥🎬
 [p5.js](https://editor.p5js.org/00001132580377sp/full/T-seBUCMn)
 
 ## DESCRICAO
