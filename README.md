@@ -10,7 +10,7 @@ e me desenvolvendo na linguagem JavaScrip. ultilizo desse repositório para Deix
 
 ### DESCRIÇAO 
 Projeto java script computacional onde atravez da plataforma alura foi feito com base numa trilha de conhecimento tal para obtençao de nota escolar no intinerario tecnologico
-o jogo tem como objetivo a interaçao por meio da programaçao, divertimento e entreterimento entre os players
+o jogo tem como objetivo a interaçao por meio da programaçao, divertimento e entreterimento entre os players. 
 
 ### FUNCIONALIDADES
 - Raquetes para impacto com a bola
@@ -21,6 +21,9 @@ o jogo tem como objetivo a interaçao por meio da programaçao, divertimento e e
 ### TECNOLOGIAS ULTILIZADAS 
 - Biblioteca p5js editor e home
 - linguagem java
+
+- ## CREDITOS
+- Guilherme silveira CEO e fundador do alura start.
 
 
 ### PROJETO 2 - RECOMENDADOR DE FILMES 🎥🎬
@@ -37,6 +40,9 @@ Este projeto faz parte de um curso oferecido pela Alura. Ele permite aos usuári
 ### TECNOLOGIAS ULTILIZADAS
 - Biblioteca p5js
 - linguagem java 
+
+## CREDITOS 
+Guilherme silveira CEO e fundador do alura start.
 
 ### E LEMBRANDO QUE O ESSE REPOSITORIO está licenciada sob CC POR 4.0 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Guizinhwz/p5js.projetos.git">p5js.projetos</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Guizinhwz">Guizinhwz</a> está licenciado sob <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel=" licença noopener noreferrer" style="display:inline-block;" >CC POR 4.0<img style="height:22px!importante; margem-esquerda: 3px; vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important; margem-esquerda: 3px; vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
